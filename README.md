@@ -10,5 +10,5 @@ pip install -r requirements.txt
 ```
 ### Run the jupyter file:
 ```
-jupyter notebook main.ipynb
+jupyter notebook Project_G2.ipynb
 ```
